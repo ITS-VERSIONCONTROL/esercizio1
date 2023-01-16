@@ -1,5 +1,11 @@
 
+<<<<<<< HEAD
 ciao sono giorgione puzza
 
 ciao sono davide brutto
+=======
+ciao sono giorgione, amico di daniele average LOL player
+
+ciao sono davide, siuuuuuum
+>>>>>>> b07c23b9913e4a63d754b1b520abf2b2ea3563e0
 
